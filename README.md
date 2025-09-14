@@ -1,5 +1,4 @@
-Predict whether you get a placement or not!
+ALL ML RELATED MATERIALS AND CODES ARE AVAILABLE IN THIS REPOSITORY!
 --
-I used placement dataset and train it on a classification base model name logistic regression. Before train the model,I clean the data and apply standard scaler to scale both input columns.
 
 
